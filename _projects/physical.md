@@ -12,7 +12,7 @@ importance: 4
 img: assets/img/Home/Home_8.jpg
 ---
 
-The vhysical part of the library focuses on a direct approach with materials by interacting with them through the senses.
+The physical part of the library focuses on a direct approach with materials by interacting with them through the senses.
 Physical material samples, part cut-offs, possible products and applications can be directly touched and experienced by the users, supporting experiential learning approaches. Furthermore, the hands-on activities in replicating or improving this part is also meant to let the users directly experience and learn how to exploit these materials and technologies by using them in first person.
 
 The physical structures contain the samples showcased in the virtual part of the library ([Materials Library](https://repmatlibrary.github.io/materialslibrary/), [Product Library](https://repmatlibrary.github.io/productlibrary/)).

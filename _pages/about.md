@@ -11,7 +11,7 @@ nav_order: 1
 <h5><i><b>Rep</b>licating <b>Mat</b>erials Library.</i></h5>
 <br>
 
-The name, <strong>RepMat</strong>, is an explicit inspiration of the <strong>RepRap</strong> project, [Replicating Rapid prototyper](https://reprap.org/wiki/RepRap). This initiative aims to making accessible and freely available self-replicable Open-source 3D printers.
+The name, <strong>RepMat</strong>, is an explicit inspiration of the <strong>RepRap</strong> project, [Replicating Rapid prototyper](https://reprap.org/wiki/RepRap). This initiative aims to make accessible and freely available self-replicable Open-source 3D printers.
 
 In the same way, <strong>RepMat</strong> wants to democratize materials and technological knowledge (and experience) by sharing experimentations, results, and possible real exploitations dealing with <strong>circular materials</strong> and <strong>digital fabrication tools</strong>. Inspired by the Makers' community, <strong>RepMat</strong> encourages connections at a <i>glocal</i> (global+local) level, acting as a distributed network linking local communities working on these topics, such as research labs, makerspaces, and studios.
 
@@ -38,7 +38,7 @@ As the name suggests, <strong>RepMat</strong> derives from the concept of <stron
 <strong>RepMat</strong> is also a system-oriented experiential tool made of two main parts: a <strong>Physical Library</strong> and a <strong>Virtual Library</strong>. The first part collects flat samples, cut-offs, and possible applications, whereas the second part comprises intangible contents such as technical data, information, pictures. The two parts are designed to be used together and are linked in their structure. However, they can be used separately, for example to familiarize with the topic.
 
 <b>RepMat</b> is an open source:
-* `Physical` and `Virtual` experiential tool, merging the two tangible and intangible fruitions to support the whole experience and knowledge transfer.
+* `Physical` and `Virtual` experiential tool, merging the two tangible and intangible use modalities to support the whole experience and knowledge transfer.
 - `Local` and `Distributed` network, linking local  communities and users in global virtual networks.
 + `Accessible` and `Participated` environment, sharing materials knowledge and encouraging practical actions, as well as collaborations between users.
 
@@ -71,7 +71,7 @@ The idea of a <strong>Materials Library System</strong> derives from the work of
 
 <strong>RepMat</strong> should be intended as a growing experiential tool to be redefined and improved through use and in a collaborative way. The physical part can be freely replicated within fablabs, makerspaces, studios, and educational institutions by following the principles of <strong>open source</strong> and <strong>open design</strong>, giving the credits to this project. In addition, these results can be also added and shared in this virtual part of <strong>RepMat</strong> to support this work and help other users, sharing new knowledge.
 <br><br>
-Visit the section [Join Us](joinus/) of this website for more information and knowing how to participate to this project.
+Visit the [Join Us](joinus/) section of this website for more information and knowing how to participate to this project.
 
 <hr>
 

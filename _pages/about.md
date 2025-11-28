@@ -101,11 +101,13 @@ The <strong>OSHWA certification</strong> is provided to projects that comply wit
 
 <br>
 Special thanks to:
-+ <b>Contents contributors (samples, tests, applications):</b> Juan Sebastian Barrera Cely, Lorenzo Perusin, Martina Paramatti, Davide Teruzzi.
++ <b>Contents contributors (samples, tests, applications):</b> Juan Sebastian Barrera Cely, Lorenzo Perusin, Martina Paramatti, Davide Teruzzi, Giulia Riccardi, Davide Negri, Luca Guida.
 * <b>Supervisors (research activity):</b> Marinella Levi, Valentina Rognoli, Joshua M. Pearce.
 * <b>Supervisors (materials library development):</b> Marinella Levi, Valentina Rognoli.
 + <b>Consultants, technical assistance, and support:</b> Mattia Ciurnelli, Aliaksei Petsiuk, Gianluca Pugliese, Ravneet S. Rattan, Giulia Riccardi, Romano Romani.
 + <b>Companies and institutions:</b> FAST Lab (Western University), SuperForma Srl, Wasp Srl, Il Bullone, CoffeeFrom Srl, LowPoly SL, Re:3D.
++ <b>Materials and institution suppliers:</b> Nexeo Plastics, Italian Leather Research Institute, University of Palermo, University of Salerno.
++ <b>Other funded-projects connected to part of the contents (samples, tests, applications):</b> FUTUREVAL-PPE: FUnctional Technology Unlocking REcycling and VALorization of Personal Protective Equipment production scrap and waste (PRIN 2022 program, Italian Ministry of University and Research); SOLARIS: Sustainable Options for Leather Advances and Recycling Innovative Solutions (MICS - Made in Italy Circolare e Sostenibile, 3A-Italy PNRR extended partnership NextGenerationEU - Italian Ministry of University and Research).
 + <b>Associations and institutions (certifications):</b> OSHWA (Open Source Hardware Association).
 
 <br>Research Labs/groups:
